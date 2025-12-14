@@ -66,6 +66,8 @@ Clear fraud / non-fraud alerts
 
 📁 Project Structure
 
+<img width="277" height="258" alt="Screenshot 2025-12-14 at 11 24 38 PM" src="https://github.com/user-attachments/assets/97b83ad1-17a5-4063-baa5-93df83359db3" />
+
 
 
 
@@ -91,6 +93,22 @@ transaction_type_encoder.pkl
 streamlit run app.py
 
 🖥️ Application Screenshots:
+
+<img width="1470" height="956" alt="Screenshot 2025-12-14 at 11 21 18 PM" src="https://github.com/user-attachments/assets/309bdddd-3144-4ef4-bc3d-3d7fde9f6bc0" />
+
+<img width="1470" height="956" alt="Screenshot 2025-12-14 at 11 21 31 PM" src="https://github.com/user-attachments/assets/ffa16b41-a615-429e-9ce9-2b6d2ea6a8cf" />
+
+<img width="1470" height="956" alt="Screenshot 2025-12-14 at 11 21 46 PM" src="https://github.com/user-attachments/assets/8fe05459-68ff-4181-b7a8-382e1678144e" />
+
+<img width="1470" height="956" alt="Screenshot 2025-12-14 at 11 22 01 PM" src="https://github.com/user-attachments/assets/e82106ca-8386-464d-a8c9-592dfa878877" />
+
+<img width="1470" height="956" alt="Screenshot 2025-12-14 at 11 22 06 PM" src="https://github.com/user-attachments/assets/0567dc17-48d7-48b0-af0c-8b0bbf47ad32" />
+
+##System Architecture Diagram
+
+<img width="1245" height="476" alt="TP7FRXGn3CRlUGfh3mWEM-uSK2lAIfMcekfIJaZ8JRpRY8mJEHxGW91u1zwG9y7PBDe_KayJ-_ly-JV9PLKKdSRaD6eYM0bE0Qv9oMlC3EkvAetmz_SVk1B_55j_4d8ElMQ1XqhYd5WJUMlZYvLaLk800yua2_Zf07mUIsPYXSLQXN1CKU6gbC_y4akvAFEh1M25XnltwoJhTe0Rtf0GUtech-FU2ONOUMzpe6J1zyWXZx3A" src="https://github.com/user-attachments/assets/c9db3214-ed8a-40f9-a05d-5faa160251e9" />
+
+
 
 
 
