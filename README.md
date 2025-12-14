@@ -112,7 +112,7 @@ streamlit run app.py
 
 
 
-Open browser at:
+Open browser at: https://fraud-detection-system-cojmzsw6vuktu8dqlvqect.streamlit.app/
 
 
 
