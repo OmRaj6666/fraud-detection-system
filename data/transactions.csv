@@ -1,0 +1,11 @@
+Time,Amount,Transaction_Type,Is_International,Is_Fraud
+10,1200,Online,1,1
+20,45,POS,0,0
+30,560,Online,0,0
+40,9000,Online,1,1
+50,15,POS,0,0
+60,780,Online,0,0
+70,15000,Online,1,1
+80,60,ATM,0,0
+90,430,POS,0,0
+100,11000,Online,1,1
